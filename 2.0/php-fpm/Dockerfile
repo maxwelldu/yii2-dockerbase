@@ -1,4 +1,4 @@
-FROM php:5.6.10-fpm
+FROM php:7.0-fpm
 
 MAINTAINER haertl.mike@gmail.com
 
